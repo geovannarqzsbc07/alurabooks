@@ -3,6 +3,7 @@
 :root {
     --cor-de-fundo: #ebecee;
     --branco: #FFFFFF;
+    --laranja:var(--laranja)
 }
 
 body {
